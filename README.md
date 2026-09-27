@@ -1,3 +1,9 @@
+> **Xappiens fork** of [frappe/lms](https://github.com/frappe/lms) (Frappe Learning).  
+> Used for client delivery and contributions around Learning / LMS. Upstream product and docs remain with Frappe.  
+> Company profile → [github.com/xappiens-ai](https://github.com/xappiens-ai) · [xappiens.com](https://xappiens.com)
+
+---
+
 <div align="center" markdown="1">
 
 <img src=".github/lms-logo.png" alt="Frappe Learning logo" width="80" height="80"/>
